@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "1c-com": {
+      "command": "D:\\Documents\\разработка_1С\\mcp-1c-com\\.venv\\Scripts\\python.exe",
+      "args": ["D:\\Documents\\разработка_1С\\mcp-1c-com\\server.py"],
+      "env": {
+        "ONEC_FILE": "C:\\bases\\acc",
+        "ONEC_USR": "Администратор",
+        "ONEC_PWD": ""
+      }
+    }
+  }
+}

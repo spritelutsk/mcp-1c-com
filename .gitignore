@@ -1,0 +1,20 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Python кэш
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+
+# Конфигурация с паролями (плейнтекст) — не коммитить
+.env
+mcp.json
+.mcp.json
+
+# Временные/локальные файлы
+_ask*.json
+*.log
+.DS_Store
