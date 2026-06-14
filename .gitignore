@@ -16,5 +16,6 @@ mcp.json
 
 # Временные/локальные файлы
 _ask*.json
+_ask*.py
 *.log
 .DS_Store
